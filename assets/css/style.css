@@ -1381,6 +1381,19 @@ li.glyph {
   list-style: none;
 }
 
-td {
+td.mytb {
   text-align: left;
+  padding: 0em 0em;
+}
+
+td.paper {
+  text-align: left;
+  padding: 0em 0em 1em 0em;
+  font-size: medium;
+}
+
+td.oral {
+  text-align: left;
+  padding: 0em 0em 1em 0em;
+  font-size: small;
 }
